@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E38EC9B625C286A600E4B7F8 /* Demo_CMD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Demo_CMD; sourceTree = BUILT_PRODUCTS_DIR; };
+		E38EC9B625C286A600E4B7F8 /* pbx-version-add */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "pbx-version-add"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E38EC9B925C286A600E4B7F8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		E38EC9B725C286A600E4B7F8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E38EC9B625C286A600E4B7F8 /* Demo_CMD */,
+				E38EC9B625C286A600E4B7F8 /* pbx-version-add */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E38EC9B525C286A500E4B7F8 /* Demo_CMD */ = {
+		E38EC9B525C286A500E4B7F8 /* pbx-version-add */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E38EC9BD25C286A600E4B7F8 /* Build configuration list for PBXNativeTarget "Demo_CMD" */;
+			buildConfigurationList = E38EC9BD25C286A600E4B7F8 /* Build configuration list for PBXNativeTarget "pbx-version-add" */;
 			buildPhases = (
 				E38EC9B225C286A500E4B7F8 /* Sources */,
 				E38EC9B325C286A500E4B7F8 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = Demo_CMD;
+			name = "pbx-version-add";
 			productName = Demo_CMD;
-			productReference = E38EC9B625C286A600E4B7F8 /* Demo_CMD */;
+			productReference = E38EC9B625C286A600E4B7F8 /* pbx-version-add */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E38EC9B525C286A500E4B7F8 /* Demo_CMD */,
+				E38EC9B525C286A500E4B7F8 /* pbx-version-add */,
 			);
 		};
 /* End PBXProject section */
@@ -264,7 +264,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E38EC9BD25C286A600E4B7F8 /* Build configuration list for PBXNativeTarget "Demo_CMD" */ = {
+		E38EC9BD25C286A600E4B7F8 /* Build configuration list for PBXNativeTarget "pbx-version-add" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E38EC9BE25C286A600E4B7F8 /* Debug */,
